@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>AboutPage</title>
+</head>
+<font color="purple"><big>About me</big></font>
+<body><body style="background-color:green;">
+    <table style="width:100%">
+  <tr>
+   <th>Firstname</th>
+<th>Lastname</th>
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Deron</td>
+    <td>Williams</td> 
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>Oreo(my dog</td>
+    <td>Williams</td> 
+    <td>6</td>
+  </tr>
+</table>
+<br />
+<br />
+Things I like:
+<ul style="list-style-type:disc">
+  <li>Dogs</li>
+  <li>Cats</li>
+  <li>School but not hard classes</li>
+</ul>  
+<br />
+<font color="blue"><a href ="Contact Page">Contact Page</a></font>
+<br />
+<font color="blue"><a href ="homepage.html">Home Page</a></font>
+<footer>
+  <p>Posted by: Deron Williams</p>
+  <p>Contact information: derwilliams@csumb.edu</p>
+</footer>
+    <p><small>Thanks for visiting</small></p>
+</body>
+</html>
